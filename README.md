@@ -1,11 +1,7 @@
 Dont't judge me I've developed this when I am in 1st semester of my B.S :alien: .
-<h2> Menu </h2>
+<h2> Menu </h2>           <h2> Instructions </h2>
 
-![menu](images/menu.png)
-
-<h2> Instructions </h2>
-
-![instructions](images/instructions.png)
+![menu](images/menu.png)  ![instructions](images/instructions.png)
 
 <h2> Player-mode </h2>
 
