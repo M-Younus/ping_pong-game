@@ -1,3 +1,3 @@
 Dont't judge me I've developed this when I am in 1st semester of my B.S :alien: .
 <h2> Menu </h2>
-![def](images/menu.png)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
